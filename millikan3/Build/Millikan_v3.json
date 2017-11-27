@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Millikan_v3.data.unityweb",
+"asmCodeUrl": "Millikan_v3.asm.code.unityweb",
+"asmMemoryUrl": "Millikan_v3.asm.memory.unityweb",
+"asmFrameworkUrl": "Millikan_v3.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
